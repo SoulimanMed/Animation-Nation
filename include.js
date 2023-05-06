@@ -6255,6 +6255,13 @@ let cards = [
     githubLink: "https://github.com/Nomishka",
   },
   {
+    artName: 'Animatslymn',
+    pageLink: './Art/Animatslymn/index.html',
+    imageLink: './Art/Animatslymn/animatSlymn.gif',
+    author: 'MedSouliman',
+    githubLink: 'https://github.com/SoulimanMed'
+  },
+  {
     artName: "Infinite Circle Loop",
     pageLink: "./Art/InfiniteCircleLoop/index.html",
     imageLink: "./Art/InfiniteCircleLoop/infinitecircleloop.gif",
